@@ -1,0 +1,77 @@
+bharatpurohit:
+    profile: "Researcher in Converging Technologies. Experienced Programmer working and simulating Neuroscience and Bio-Informatics in Information Technology. Skilled in Python, PHP, C++, Java, Network-admin (Linux) and Shell Scripting. Research Student Pursuing Dual-Degree Integrated B.Tech-M.Tech focused in Information Technology (Major), Cognitive Neuroscience (Minor) from Centre for Converging Technologies, Univ. of Rajasthan, Jaipur "
+
+    skills:
+        - "Python, PHP, MySQL, C#, ASP.NET MVC, Git"
+        - "Matlab,  Azure ML Studio, XAML, WPF, LINQ, Microsoft Office tools"
+        - "JavaScript, jQuery, HTML5, CSS, LESS"
+        - "Web Services, Active Directory, Linux"
+
+
+    education:
+
+        - time:             "2010 - 2014"
+          location:         "Jawahar Navodaya Vidhyalaya, Pali, Rajasthan"
+          description:      "Senior Secondary schooling with 88.2 % "
+
+
+        - time:             "2015 - Present"
+          location:         "Centre for Converging Technologies, University of Rajasthan, Jaipur"
+          description:      "Integrated B.Tech - M.Tech in Information Technology (Major), Cognitive Neuroscience (Minor)"
+
+
+
+    employment:
+        - time:             "Feb'17 - May'17"
+          location:         "Jaipur"
+          company:          "Centre for Converging Technologies, Jaipur"
+          position:         "Project"
+          responsibilities:
+            - "Conceptualized new web 2.0 based IT services such as Interest Group Discussion Forums, Senior
+              alumni Information and contacts, Campus Wiki, Project Database"
+            - "Allow easier collaboration, better information organization and formalizing undocumented technical know how"
+            - "Designed intuitive user interfaces and work-flows for these services and customization then finally deploy
+               these services in the institute"
+
+        - time:             "July'18 - Present"
+          location:         "DBT-BIF, Jaipur"
+          company:          "Department of Biotechnology, Government of India"
+          position:         "Traineeship"
+          responsibilities:
+            - "Studied the Scaping, Extraction and behavior of Genome data of Various Organisms for designing Biosensor"
+            - "Analyzed and Processed Genomic Data for sequencing, Searching and Mismatching and Networking"
+            - "Designed Algorithms for Extraction, Preprocessing, Sequencing, Searching and Networking using Python"
+
+
+    projects:
+        - time:             "4 months in 2017"
+          team:             "Team of 2"
+          title:            "LAMP Project"
+          technologies:     "Apache, MySQL, JavaScript, HTML5, CSS, Linux"
+          responsibilities:
+            - "Leader of Course Curriculum Project for Designing Senior Students Placement Cell."
+            - "Developed an Interactive Platform for Currently Enrolled Student as well as for Alumni for Contacting
+               and Guiding in respective field."
+            - "Designed Project Databases and workflow for all services and Discussion Forum and Finally Deploying
+               services using Apache server in Linux"
+
+
+        - time:             "3 months in 2017-18"
+          team:             "Team of 2"
+          title:            "Data Analytics"
+          technologies:     "Python, Machine learning"
+          responsibilities:
+            - "Scrapped, cleaned, Formatted, Combined and Modeling of large amount of data"
+            - "Analyse and Preprocessing of said data, results and predictive power to optimize model selection"
+            - "Used several machine learning models on transactional data, Finally deployed API as Webservices"
+
+
+        - time:             "2 months in 2018"
+          team:             "Team of 2"
+          title:            "Web Application"
+          technologies:     "Django, Python, sqlite3, CSS, HTML, Javascript"
+          responsibilities:
+            - "Designed web Application as freelancing using Django Python-webframework"
+            - "Designed Algorithms using Python for Various SEO Services - Pagerank, Keyword-Generating, Links and Emails
+               Extractions etc"
+            - " Designed Database using sqlite3 to utilise all data for further Machine Learning Project" 
